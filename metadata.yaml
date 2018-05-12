@@ -1,0 +1,31 @@
+_repo: Obras-po-ticas-de-Nicol-o-Tolentino-de-Almeida-Tom.-II_16385
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolentino, Nicolau
+    alias: Almeida, Nicolau Tolentino de
+    birthdate: 1740
+    deathdate: 1811
+    gutenberg_agent_id: '6669'
+    url: http://www.gutenberg.org/2009/agents/6669
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Nicolau_Tolentino_de_Almeida
+    - http://pt.wikipedia.org/wiki/Nicolau_Tolentino_de_Almeida
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2005-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16385'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Obras poéticas de Nicoláo Tolentino de Almeida, Tom. II
+url: http://www.gutenberg.org/ebooks/16385
